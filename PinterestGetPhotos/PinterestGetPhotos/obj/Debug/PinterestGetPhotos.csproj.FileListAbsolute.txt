@@ -1,0 +1,8 @@
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\bin\Debug\PinterestGetPhotos.exe.config
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\bin\Debug\PinterestGetPhotos.exe
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\bin\Debug\PinterestGetPhotos.pdb
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\obj\Debug\PinterestGetPhotos.csproj.AssemblyReference.cache
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\obj\Debug\PinterestGetPhotos.csproj.SuggestedBindingRedirects.cache
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\obj\Debug\PinterestGetPhotos.csproj.CoreCompileInputs.cache
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\obj\Debug\PinterestGetPhotos.exe
+D:\PinterestDownloader\PinterestGetPhotos\PinterestGetPhotos\obj\Debug\PinterestGetPhotos.pdb
